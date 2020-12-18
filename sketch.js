@@ -16,7 +16,7 @@ let classifier;
 let label = "listening";
 
 // Teachable Machine model URL:
-let soundModelURL = 'https://pcyang1230.github.io/aifrog/';
+let soundModelURL = 'https://pcyang1230.github.io/aifrog/model.json';
 
 
 function preload() {
